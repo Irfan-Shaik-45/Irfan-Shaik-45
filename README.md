@@ -1,8 +1,8 @@
 # Hi, I'm Shaik Irfan 👋
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization
 
-Passionate about transforming raw data into actionable business insights through dashboards, analytics, and storytelling.
+Passionate about transforming raw data into actionable business insights through dashboards, analytics, storytelling, and data-driven decision making.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
