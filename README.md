@@ -44,6 +44,8 @@ Food delivery analytics dashboard covering sales trends, order patterns, city-wi
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- GitHub: https://github.com/sirfan4522-lang
-- Email: your_email@example.com
+💼 LinkedIn: https://www.linkedin.com/in/shaik-irfan-063b65335
+
+💻 GitHub: https://github.com/sirfan4522-lang
+
+📧 Email: [irfanshaik4529@gmail.com](mailto:irfanshaik4529@gmail.com)
