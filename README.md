@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Shaik Irfan 👋
 
-<!--
-**sirfan4522-lang/sirfan4522-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about turning raw data into meaningful business insights.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Power BI
+- SQL
+- Excel
+- Python
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- DAX
+
+## Featured Projects
+
+### IPL Analytics Dashboard
+Season-wise IPL analysis from 2008–2025.
+
+### HR Analytics Dashboard
+Employee attrition and workforce analysis.
+
+### Sales Analytics Dashboard
+Customer behavior and sales performance insights.
+
+### Customer Churn Dashboard
+Retention and churn analysis.
+
+### Swiggy E-Commerce Dashboard
+Food delivery sales and customer trends.
+
+## Currently Learning
+
+- Python for Data Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Statistics
