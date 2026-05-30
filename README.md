@@ -11,6 +11,12 @@ Passionate about transforming raw data into actionable business insights through
 ![DAX](https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge)
 ![Power%20Query](https://img.shields.io/badge/Power%20Query-00B050?style=for-the-badge)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirfan4522-lang&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirfan4522-lang&layout=compact)
+
 ## 🛠️ Skills
 
 - Power BI
