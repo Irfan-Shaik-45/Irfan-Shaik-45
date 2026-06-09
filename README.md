@@ -1,15 +1,8 @@
 # Hi, I'm Shaik Irfan 👋
 
-Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization
+### Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization
 
-Passionate about transforming raw data into actionable business insights through dashboards, analytics, storytelling, and data-driven decision making.
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge)
-![Power%20Query](https://img.shields.io/badge/Power%20Query-00B050?style=for-the-badge)
+Passionate about transforming raw data into actionable business insights through dashboards, analytics, storytelling, and data-driven decision-making.
 
 ---
 
@@ -22,27 +15,149 @@ Passionate about transforming raw data into actionable business insights through
 - DAX
 - Power Query
 - Data Cleaning
+- Data Transformation
+- Data Modeling
 - Data Visualization
 - Dashboard Design
+- Business Intelligence
+- KPI Development
 
-## 📊 Featured Projects
+---
 
-### 🏏 IPL Analytics Dashboard
-Interactive Power BI dashboard analyzing IPL seasons from 2008–2025, including champions, Orange Cap winners, Purple Cap winners, points tables, and team performance trends.
+# 📊 Featured Projects
 
-### 👨‍💼 HR Analytics Dashboard
-Workforce and attrition analysis dashboard providing insights into employee demographics, job satisfaction, salary distribution, and attrition patterns.
+## 🏥 Healthcare Analytics Dashboard
 
-### 📈 Sales Analytics Dashboard
-Sales performance dashboard analyzing revenue, customer behavior, product categories, basket size, and monthly sales trends.
+Interactive Power BI dashboard providing insights into:
 
-### 📉 Customer Churn Analytics Dashboard
-Customer retention dashboard focused on churn analysis, customer segmentation, risk identification, and business recommendations.
+- Patient demographics
+- Hospital performance
+- Treatment effectiveness
+- Revenue analysis
+- Department performance
+- Resource utilization
 
-### 🍔 Swiggy E-Commerce Analytics Dashboard
-Food delivery analytics dashboard covering sales trends, order patterns, city-wise performance, ratings, and category-wise insights.
+**Skills Used:**
+Power BI, DAX, Power Query, Data Modeling, Data Visualization
 
-## 🚀 Currently Learning
+🔗 Repository:
+https://github.com/Irfan-Shaik-45/Healthcare_Analytics_Dashboard
+
+---
+
+## 📈 Sales Marketing Dashboard
+
+Interactive Power BI dashboard analyzing:
+
+- Revenue Performance
+- Profit Analysis
+- Cost Analysis
+- Marketing Campaign Performance
+- Lead Source Effectiveness
+- Customer Engagement
+- Conversion Rate Trends
+- Regional Performance
+- Product Performance
+
+### Key Features
+
+- Multi-page Dashboard
+- Dynamic KPI Cards
+- Year-over-Year Analysis
+- Interactive Filtering
+- Marketing Performance Tracking
+- Country-Level Analysis
+- Product-Level Analysis
+
+### Technical Highlights
+
+- Star Schema Data Model
+- DAX Measures
+- Time Intelligence Calculations
+- KPI Variance Analysis
+- SVG Sparklines
+- Custom Visual Formatting
+
+**Skills Used:**
+Power BI, DAX, Power Query, Data Modeling, Business Intelligence
+
+🔗 Repository:
+https://github.com/Irfan-Shaik-45/Sales-Marketing-Dashboard
+
+---
+
+## 👥 HR Analytics Dashboard
+
+Dashboard focused on workforce analytics and employee attrition.
+
+### Insights Covered
+
+- Employee Attrition
+- Job Satisfaction
+- Salary Analysis
+- Department Performance
+- Workforce Demographics
+- Retention Metrics
+
+🔗 Repository:
+(Add Repository Link)
+
+---
+
+## 📉 Customer Churn Analytics Dashboard
+
+Dashboard designed to identify customer churn patterns and improve retention.
+
+### Insights Covered
+
+- Churn Rate Analysis
+- Customer Segmentation
+- Risk Identification
+- Retention Strategies
+- Customer Behavior Analysis
+
+🔗 Repository:
+(Add Repository Link)
+
+---
+
+## 🏏 IPL Analytics Dashboard
+
+Interactive dashboard analyzing IPL seasons and team performance.
+
+### Insights Covered
+
+- Season Winners
+- Orange Cap Winners
+- Purple Cap Winners
+- Points Tables
+- Team Performance
+- Match Statistics
+
+🔗 Repository:
+(Add Repository Link)
+
+---
+
+## 🍔 Swiggy E-Commerce Analytics Dashboard
+
+Dashboard analyzing food delivery sales and customer behavior.
+
+### Insights Covered
+
+- Sales Trends
+- Order Patterns
+- City Performance
+- Category Performance
+- Customer Ratings
+- Revenue Analysis
+
+🔗 Repository:
+(Add Repository Link)
+
+---
+
+# 📚 Currently Learning
 
 - Python for Data Analytics
 - Pandas
@@ -50,11 +165,28 @@ Food delivery analytics dashboard covering sales trends, order patterns, city-wi
 - Matplotlib
 - Statistics
 - Data Science Fundamentals
+- Data Analytics Projects
+- Data Storytelling
 
-## 📫 Connect With Me
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/shaik-irfan-063b65335
+# 🎯 Career Objective
 
-💻 GitHub: https://github.com/sirfan4522-lang
+Seeking opportunities as a Data Analyst where I can leverage Power BI, SQL, Excel, and Python to transform data into actionable insights and support business growth through data-driven decision-making.
 
-📧 Email: [irfanshaik4529@gmail.com](mailto:irfanshaik4529@gmail.com)
+---
+
+# 📫 Connect With Me
+
+### LinkedIn
+https://www.linkedin.com/in/shaik-irfan-063b65335
+
+### GitHub
+https://github.com/Irfan-Shaik-45
+
+### Email
+irfanshaik4529@gmail.com
+
+---
+
+⭐ If you find my projects interesting, feel free to explore the repositories and connect with me!
