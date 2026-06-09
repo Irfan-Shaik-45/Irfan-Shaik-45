@@ -4,9 +4,16 @@
 
 Passionate about transforming raw data into actionable business insights through dashboards, analytics, storytelling, and data-driven decision-making.
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge)
+
 ---
 
-## 🛠️ Skills
+# 🛠 Skills
 
 - Power BI
 - SQL
@@ -21,6 +28,7 @@ Passionate about transforming raw data into actionable business insights through
 - Dashboard Design
 - Business Intelligence
 - KPI Development
+- Analytics Storytelling
 
 ---
 
@@ -28,17 +36,15 @@ Passionate about transforming raw data into actionable business insights through
 
 ## 🏥 Healthcare Analytics Dashboard
 
-Interactive Power BI dashboard providing insights into:
+Interactive Healthcare Analytics Dashboard built using Power BI.
 
-- Patient demographics
-- Hospital performance
-- Treatment effectiveness
-- Revenue analysis
-- Department performance
-- Resource utilization
-
-**Skills Used:**
-Power BI, DAX, Power Query, Data Modeling, Data Visualization
+### Key Insights
+- Patient Analysis
+- Revenue Analysis
+- Department Performance
+- Treatment Trends
+- Resource Utilization
+- Operational KPIs
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Healthcare_Analytics_Dashboard
@@ -47,113 +53,108 @@ https://github.com/Irfan-Shaik-45/Healthcare_Analytics_Dashboard
 
 ## 📈 Sales Marketing Dashboard
 
-Interactive Power BI dashboard analyzing:
+Interactive Sales Marketing Dashboard built using Power BI.
 
-- Revenue Performance
+### Key Insights
+- Revenue Analysis
 - Profit Analysis
 - Cost Analysis
-- Marketing Campaign Performance
-- Lead Source Effectiveness
-- Customer Engagement
-- Conversion Rate Trends
-- Regional Performance
+- Conversion Rate Analysis
+- Lead Source Performance
+- Campaign Performance
+- Regional Analysis
 - Product Performance
 
-### Key Features
-
-- Multi-page Dashboard
-- Dynamic KPI Cards
-- Year-over-Year Analysis
-- Interactive Filtering
-- Marketing Performance Tracking
-- Country-Level Analysis
-- Product-Level Analysis
-
-### Technical Highlights
-
+### Technical Features
 - Star Schema Data Model
 - DAX Measures
-- Time Intelligence Calculations
+- Time Intelligence
 - KPI Variance Analysis
 - SVG Sparklines
-- Custom Visual Formatting
-
-**Skills Used:**
-Power BI, DAX, Power Query, Data Modeling, Business Intelligence
+- Interactive Filtering
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Sales-Marketing-Dashboard
 
 ---
 
-## 👥 HR Analytics Dashboard
+## 📊 Sales Analytics Dashboard
 
-Dashboard focused on workforce analytics and employee attrition.
+Interactive sales dashboard tracking revenue, customer behavior, product performance, and sales trends.
 
-### Insights Covered
-
-- Employee Attrition
-- Job Satisfaction
-- Salary Analysis
-- Department Performance
-- Workforce Demographics
-- Retention Metrics
+### Key Insights
+- Sales Performance
+- Revenue Trends
+- Product Analysis
+- Customer Analysis
+- Regional Sales
 
 🔗 Repository:
-(Add Repository Link)
+https://github.com/Irfan-Shaik-45/Sales-Analytics-Dashboard
+
+---
+
+## 👥 HR Analytics Dashboard
+
+Power BI dashboard focused on employee attrition and workforce analytics.
+
+### Key Insights
+- Attrition Analysis
+- Employee Demographics
+- Job Satisfaction
+- Salary Distribution
+- HR KPIs
+
+🔗 Repository:
+https://github.com/Irfan-Shaik-45/HR-Analytics-Dashboard
 
 ---
 
 ## 📉 Customer Churn Analytics Dashboard
 
-Dashboard designed to identify customer churn patterns and improve retention.
+Customer retention and churn analysis dashboard.
 
-### Insights Covered
-
+### Key Insights
 - Churn Rate Analysis
 - Customer Segmentation
 - Risk Identification
-- Retention Strategies
-- Customer Behavior Analysis
+- Customer Retention
+- Business Recommendations
 
 🔗 Repository:
-(Add Repository Link)
-
----
-
-## 🏏 IPL Analytics Dashboard
-
-Interactive dashboard analyzing IPL seasons and team performance.
-
-### Insights Covered
-
-- Season Winners
-- Orange Cap Winners
-- Purple Cap Winners
-- Points Tables
-- Team Performance
-- Match Statistics
-
-🔗 Repository:
-(Add Repository Link)
+https://github.com/Irfan-Shaik-45/Customer-Churn-Analytics-Dashboard
 
 ---
 
 ## 🍔 Swiggy E-Commerce Analytics Dashboard
 
-Dashboard analyzing food delivery sales and customer behavior.
+Food delivery analytics dashboard analyzing customer and sales behavior.
 
-### Insights Covered
-
-- Sales Trends
-- Order Patterns
-- City Performance
-- Category Performance
+### Key Insights
+- Order Analysis
+- Revenue Trends
+- City-wise Performance
+- Category Analysis
 - Customer Ratings
-- Revenue Analysis
 
 🔗 Repository:
-(Add Repository Link)
+https://github.com/Irfan-Shaik-45/Swiggy-Ecommerce-Analytics-Dashboard
+
+---
+
+## 🏏 IPL Analytics Dashboard
+
+Interactive IPL Analytics Dashboard built using Power BI.
+
+### Key Insights
+- IPL Seasons Analysis
+- Orange Cap Winners
+- Purple Cap Winners
+- Team Performance
+- Points Table Analysis
+
+🔗 Repository:
+https://github.com/Irfan-Shaik-45/IPL-Analytics-Dashboard
 
 ---
 
@@ -165,14 +166,22 @@ Dashboard analyzing food delivery sales and customer behavior.
 - Matplotlib
 - Statistics
 - Data Science Fundamentals
-- Data Analytics Projects
 - Data Storytelling
+- Data Science Projects
 
 ---
 
 # 🎯 Career Objective
 
 Seeking opportunities as a Data Analyst where I can leverage Power BI, SQL, Excel, and Python to transform data into actionable insights and support business growth through data-driven decision-making.
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-Shaik-45&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Shaik-45&layout=compact)
 
 ---
 
@@ -189,4 +198,4 @@ irfanshaik4529@gmail.com
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore the repositories and connect with me!
+⭐ If you find my projects interesting, feel free to explore the repositories and connect with me.
