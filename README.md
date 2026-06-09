@@ -12,6 +12,7 @@ Passionate about transforming raw data into actionable business insights through
 <img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge"/>
 </p>
+
 ---
 
 # 🛠 Skills
@@ -88,6 +89,7 @@ IPL analytics dashboard covering seasons, Orange Cap, Purple Cap, team performan
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/IPL-Analytics-Dashboard
+
 ---
 
 # 📚 Currently Learning
