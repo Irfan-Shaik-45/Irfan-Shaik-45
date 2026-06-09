@@ -4,13 +4,14 @@
 
 Passionate about transforming raw data into actionable business insights through dashboards, analytics, storytelling, and data-driven decision-making.
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge)
-
+<p align="left">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge"/>
+</p>
 ---
 
 # 🛠 Skills
@@ -35,16 +36,7 @@ Passionate about transforming raw data into actionable business insights through
 # 📊 Featured Projects
 
 ## 🏥 Healthcare Analytics Dashboard
-
-Interactive Healthcare Analytics Dashboard built using Power BI.
-
-### Key Insights
-- Patient Analysis
-- Revenue Analysis
-- Department Performance
-- Treatment Trends
-- Resource Utilization
-- Operational KPIs
+Interactive Power BI dashboard analyzing patient trends, revenue, departments, and operational KPIs.
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Healthcare_Analytics_Dashboard
@@ -52,26 +44,7 @@ https://github.com/Irfan-Shaik-45/Healthcare_Analytics_Dashboard
 ---
 
 ## 📈 Sales Marketing Dashboard
-
-Interactive Sales Marketing Dashboard built using Power BI.
-
-### Key Insights
-- Revenue Analysis
-- Profit Analysis
-- Cost Analysis
-- Conversion Rate Analysis
-- Lead Source Performance
-- Campaign Performance
-- Regional Analysis
-- Product Performance
-
-### Technical Features
-- Star Schema Data Model
-- DAX Measures
-- Time Intelligence
-- KPI Variance Analysis
-- SVG Sparklines
-- Interactive Filtering
+Sales and marketing performance dashboard with revenue, profit, conversion rate, campaign, and regional analysis.
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Sales-Marketing-Dashboard
@@ -79,15 +52,7 @@ https://github.com/Irfan-Shaik-45/Sales-Marketing-Dashboard
 ---
 
 ## 📊 Sales Analytics Dashboard
-
-Interactive sales dashboard tracking revenue, customer behavior, product performance, and sales trends.
-
-### Key Insights
-- Sales Performance
-- Revenue Trends
-- Product Analysis
-- Customer Analysis
-- Regional Sales
+Dashboard tracking sales performance, revenue trends, customer behavior, and product performance.
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Sales-Analytics-Dashboard
@@ -95,15 +60,7 @@ https://github.com/Irfan-Shaik-45/Sales-Analytics-Dashboard
 ---
 
 ## 👥 HR Analytics Dashboard
-
-Power BI dashboard focused on employee attrition and workforce analytics.
-
-### Key Insights
-- Attrition Analysis
-- Employee Demographics
-- Job Satisfaction
-- Salary Distribution
-- HR KPIs
+Employee attrition dashboard covering workforce demographics, job satisfaction, and HR KPIs.
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/HR-Analytics-Dashboard
@@ -111,15 +68,7 @@ https://github.com/Irfan-Shaik-45/HR-Analytics-Dashboard
 ---
 
 ## 📉 Customer Churn Analytics Dashboard
-
-Customer retention and churn analysis dashboard.
-
-### Key Insights
-- Churn Rate Analysis
-- Customer Segmentation
-- Risk Identification
-- Customer Retention
-- Business Recommendations
+Customer retention dashboard focused on churn analysis, segmentation, and risk identification.
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Customer-Churn-Analytics-Dashboard
@@ -127,35 +76,18 @@ https://github.com/Irfan-Shaik-45/Customer-Churn-Analytics-Dashboard
 ---
 
 ## 🍔 Swiggy E-Commerce Analytics Dashboard
-
-Food delivery analytics dashboard analyzing customer and sales behavior.
-
-### Key Insights
-- Order Analysis
-- Revenue Trends
-- City-wise Performance
-- Category Analysis
-- Customer Ratings
+Food delivery analytics dashboard analyzing orders, revenue, ratings, and city-wise performance.
 
 🔗 Repository:
-https://github.com/Irfan-Shaik-45/Swiggy-Ecommerce-Analytics-Dashboard
+https://github.com/Irfan-Shaik-45/Swiggy-E-Commerce-Analytics-Dashboard
 
 ---
 
 ## 🏏 IPL Analytics Dashboard
-
-Interactive IPL Analytics Dashboard built using Power BI.
-
-### Key Insights
-- IPL Seasons Analysis
-- Orange Cap Winners
-- Purple Cap Winners
-- Team Performance
-- Points Table Analysis
+IPL analytics dashboard covering seasons, Orange Cap, Purple Cap, team performance, and points table analysis.
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/IPL-Analytics-Dashboard
-
 ---
 
 # 📚 Currently Learning
