@@ -2,134 +2,203 @@
 
 ### Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization
 
-Passionate about transforming raw data into actionable business insights through dashboards, analytics, storytelling, and data-driven decision-making.
-
-<p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge"/>
-</p>
+Passionate about transforming raw data into actionable business insights through dashboards, analytics, and data-driven decision-making.
 
 ---
 
-# 🛠 Skills
+## 🚀 About Me
 
+🎓 B.Tech in Electronics & Communication Engineering (ECE)
+
+📊 Aspiring Data Analyst skilled in Power BI, SQL, Excel, Python, DAX, and Power Query.
+
+📈 Experienced in building end-to-end analytics dashboards with Star Schema Data Models and advanced KPI reporting.
+
+🌱 Currently expanding my expertise in Data Analytics, Business Intelligence, and Data Science.
+
+---
+
+## 🛠️ Skills
+
+### Data Analytics
 - Power BI
 - SQL
 - Excel
 - Python
+
+### Power BI
 - DAX
 - Power Query
-- Data Cleaning
-- Data Transformation
 - Data Modeling
-- Data Visualization
-- Dashboard Design
-- Business Intelligence
+- Star Schema
 - KPI Development
-- Analytics Storytelling
+- Dashboard Design
+- Data Visualization
+
+### Python Libraries
+- Pandas
+- NumPy
+- Matplotlib
+
+### Database
+- MySQL
+- PostgreSQL (Learning)
 
 ---
 
 # 📊 Featured Projects
 
-## 🏥 Healthcare Analytics Dashboard
-Interactive Power BI dashboard analyzing patient trends, revenue, departments, and operational KPIs.
+---
+
+## 🚚 Samsung Supply Chain & Logistics Analytics Dashboard
+
+End-to-end Supply Chain Analytics solution built using Power BI.
+
+### Highlights
+- Star Schema Data Model
+- 40+ DAX Measures
+- Supplier Analytics
+- Inventory Analytics
+- Shipment Analytics
+- Customer Analytics
 
 🔗 Repository:
-https://github.com/Irfan-Shaik-45/Healthcare_Analytics_Dashboard
+https://github.com/Irfan-Shaik-45/Supply-Chain-Dashboard
+
+---
+
+## 💰 Finance Analytics Dashboard
+
+Interactive Finance Analytics Dashboard for revenue, profit, expense, and budget analysis.
+
+### Highlights
+- Financial KPI Tracking
+- Revenue & Profit Analysis
+- Budget vs Actual Analysis
+- Time Intelligence Reporting
+
+🔗 Repository:
+https://github.com/Irfan-Shaik-45/Finance_Analytics_Dashboard
 
 ---
 
 ## 📈 Sales Marketing Dashboard
-Sales and marketing performance dashboard with revenue, profit, conversion rate, campaign, and regional analysis.
+
+Sales and Marketing Analytics Dashboard built using Power BI.
+
+### Highlights
+- Revenue Analysis
+- Profit Analysis
+- Customer Segmentation
+- Marketing Performance Analysis
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Sales-Marketing-Dashboard
 
 ---
 
-## 📊 Sales Analytics Dashboard
-Dashboard tracking sales performance, revenue trends, customer behavior, and product performance.
+## 🏥 Healthcare Analytics Dashboard
+
+Healthcare Performance Analytics Dashboard.
+
+### Highlights
+- Patient Analysis
+- Revenue Insights
+- Department Performance
+- Hospital KPI Monitoring
 
 🔗 Repository:
-https://github.com/Irfan-Shaik-45/Sales-Analytics-Dashboard
+https://github.com/Irfan-Shaik-45/Healthcare_Analytics_Dashboard
 
 ---
 
 ## 👥 HR Analytics Dashboard
-Employee attrition dashboard covering workforce demographics, job satisfaction, and HR KPIs.
+
+Workforce and Employee Analytics Dashboard.
+
+### Highlights
+- Attrition Analysis
+- Employee Demographics
+- Salary Analysis
+- Workforce KPIs
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/HR-Analytics-Dashboard
 
 ---
 
-## 📉 Customer Churn Analytics Dashboard
-Customer retention dashboard focused on churn analysis, segmentation, and risk identification.
+## 🛒 Swiggy Ecommerce Analytics Dashboard
+
+Food Delivery & Ecommerce Analytics Dashboard.
+
+### Highlights
+- Revenue Analysis
+- Order Analytics
+- Customer Insights
+- City-wise Performance
+
+🔗 Repository:
+https://github.com/Irfan-Shaik-45/Swiggy-Ecommerce-Analytics-Dashboard
+
+---
+
+## 🎯 Customer Churn Analytics Dashboard
+
+Customer Retention and Churn Analytics Dashboard.
+
+### Highlights
+- Churn Analysis
+- Customer Segmentation
+- Retention KPIs
+- Business Recommendations
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Customer-Churn-Analytics-Dashboard
 
 ---
 
-## 🍔 Swiggy E-Commerce Analytics Dashboard
-Food delivery analytics dashboard analyzing orders, revenue, ratings, and city-wise performance.
-
-🔗 Repository:
-https://github.com/Irfan-Shaik-45/Swiggy-E-Commerce-Analytics-Dashboard
-
----
-
 ## 🏏 IPL Analytics Dashboard
-IPL analytics dashboard covering seasons, Orange Cap, Purple Cap, team performance, and points table analysis.
+
+IPL Analytics Dashboard covering IPL seasons from 2008–2025.
+
+### Highlights
+- Team Performance Analysis
+- Orange Cap Insights
+- Purple Cap Insights
+- Historical IPL Statistics
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/IPL-Analytics-Dashboard
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- Python for Data Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Statistics
+- Advanced SQL
 - Data Science Fundamentals
-- Data Storytelling
-- Data Science Projects
+- Statistics for Data Analytics
+- Machine Learning Basics
+- Python for Data Analysis
 
 ---
 
-# 🎯 Career Objective
+## 🎯 Career Objective
 
-Seeking opportunities as a Data Analyst where I can leverage Power BI, SQL, Excel, and Python to transform data into actionable insights and support business growth through data-driven decision-making.
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-Shaik-45&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Shaik-45&layout=compact)
+Seeking opportunities as a Data Analyst where I can leverage Power BI, SQL, Excel, and Python to transform data into meaningful insights and support business growth through data-driven decision-making.
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 ### LinkedIn
-https://www.linkedin.com/in/shaik-irfan-063b65335
+www.linkedin.com/in/shaik-irfan-063b65335
 
 ### GitHub
 https://github.com/Irfan-Shaik-45
 
 ### Email
-irfanshaik4529@gmail.com
+irfanshaik45@gmail.com
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore the repositories and connect with me.
+⭐ If you like my projects, feel free to connect and explore my repositories.
