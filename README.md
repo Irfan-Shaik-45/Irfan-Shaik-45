@@ -1,24 +1,68 @@
-# Hi 👋, I'm Shaik Irfan
+<h1 align="center">Hi 👋, I'm Shaik Irfan</h1>
+<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
 
-### Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Irfan-Shaik-45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
+<p align="center">
 Passionate about transforming raw data into actionable business insights through dashboards, analytics, and data-driven decision-making.
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech in Electronics & Communication Engineering (ECE)
 
-📊 Aspiring Data Analyst skilled in Power BI, SQL, Excel, Python, DAX, and Power Query.
+📊 Aspiring Data Analyst skilled in:
+- Power BI
+- SQL
+- Excel
+- Python
+- DAX
+- Power Query
 
-📈 Experienced in building end-to-end analytics dashboards with Star Schema Data Models and KPI Reporting.
+📈 Experienced in:
+- End-to-End Analytics Dashboards
+- Star Schema Data Modeling
+- KPI Reporting
+- Data Visualization
+- Business Intelligence Solutions
 
-🌱 Currently expanding my expertise in Data Analytics, Business Intelligence, Statistics, and Data Science.
+🌱 Currently learning:
+- Advanced SQL
+- Statistics for Data Analytics
+- Machine Learning Fundamentals
+- Data Science Concepts
+- Python for Data Analysis
+
+🎯 Goal:
+To become a Data Analyst and help businesses make data-driven decisions through powerful analytics and interactive dashboards.
 
 ---
 
-# 🛠 Skills
+# 🛠️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![DAX](https://img.shields.io/badge/DAX-E97627?style=for-the-badge)
+
+![Power Query](https://img.shields.io/badge/Power_Query-00B050?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+# 📊 Skills
 
 ## Data Analytics
 - Power BI
@@ -46,11 +90,11 @@ Passionate about transforming raw data into actionable business insights through
 
 ---
 
-# 📊 Featured Projects
+# 📂 Featured Projects
 
 ## 🚚 Samsung Supply Chain & Logistics Analytics Dashboard
 
-End-to-End Supply Chain Analytics Solution built using Power BI.
+End-to-end Supply Chain Analytics Solution built using Power BI.
 
 ### Highlights
 - Star Schema Data Model
@@ -59,7 +103,6 @@ End-to-End Supply Chain Analytics Solution built using Power BI.
 - Inventory Analytics
 - Shipment Analytics
 - Customer Analytics
-- Business KPI Tracking
 
 🔗 Repository:
 https://github.com/Irfan-Shaik-45/Supply-Chain-Dashboard
@@ -68,7 +111,7 @@ https://github.com/Irfan-Shaik-45/Supply-Chain-Dashboard
 
 ## 💰 Finance Analytics Dashboard
 
-Interactive Finance Analytics Dashboard for Revenue, Profit, Expense, and Budget Analysis.
+Interactive Finance Analytics Dashboard for revenue, profit, expense, and budget analysis.
 
 ### Highlights
 - Financial KPI Tracking
@@ -83,7 +126,7 @@ https://github.com/Irfan-Shaik-45/Finance_Analytics_Dashboard
 
 ## 📈 Sales Marketing Dashboard
 
-Sales & Marketing Analytics Dashboard built using Power BI.
+Sales and Marketing Analytics Dashboard built using Power BI.
 
 ### Highlights
 - Revenue Analysis
@@ -113,7 +156,7 @@ https://github.com/Irfan-Shaik-45/Healthcare_Analytics_Dashboard
 
 ## 👥 HR Analytics Dashboard
 
-Workforce & Employee Analytics Dashboard.
+Workforce and Employee Analytics Dashboard.
 
 ### Highlights
 - Attrition Analysis
@@ -143,7 +186,7 @@ https://github.com/Irfan-Shaik-45/Swiggy-Ecommerce-Analytics-Dashboard
 
 ## 🎯 Customer Churn Analytics Dashboard
 
-Customer Retention & Churn Analytics Dashboard.
+Customer Retention and Churn Analytics Dashboard.
 
 ### Highlights
 - Churn Analysis
@@ -158,7 +201,7 @@ https://github.com/Irfan-Shaik-45/Customer-Churn-Analytics-Dashboard
 
 ## 🏏 IPL Analytics Dashboard
 
-IPL Analytics Dashboard covering IPL Seasons (2008–2025).
+IPL Analytics Dashboard covering IPL seasons from 2008–2025.
 
 ### Highlights
 - Team Performance Analysis
@@ -174,10 +217,14 @@ https://github.com/Irfan-Shaik-45/IPL-Analytics-Dashboard
 # 📚 Currently Learning
 
 - Advanced SQL
-- Statistics for Data Analytics
-- Data Science Fundamentals
-- Machine Learning Basics
 - Python for Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Statistics
+- Data Science Fundamentals
+- Data Storytelling
+- Machine Learning Basics
 
 ---
 
@@ -187,15 +234,31 @@ Seeking opportunities as a Data Analyst where I can leverage Power BI, SQL, Exce
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Irfan-Shaik-45&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Shaik-45&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfan-Shaik-45&theme=tokyonight"/>
+</p>
+
+---
+
 # 📫 Connect With Me
 
-### LinkedIn
+### 💼 LinkedIn
 https://www.linkedin.com/in/shaik-irfan-063b65335
 
-### GitHub
+### 💻 GitHub
 https://github.com/Irfan-Shaik-45
 
-### Email
+### 📧 Email
 irfanshaik45@gmail.com
 
 ---
